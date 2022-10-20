@@ -11,4 +11,3 @@ router.patch("/tour/:id", controller.updateTour)
 
 
 module.exports = router;
-
